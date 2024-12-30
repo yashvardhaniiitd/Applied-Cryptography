@@ -20,20 +20,19 @@ This course covered topics related to **[Insert course topics]** and provided ha
 
 Here you'll find all the assignments I worked on during the course.
 
-- [Assignment 1](assignments/assignment_1): [Short description of the assignment and what it involved]
-- [Assignment 2](assignments/assignment_2):  Trivium Cipher (FSR based Stream Cipher)
-   
-- [Assignment 3](assignments/assignment_3): [Short description of the assignment]
+- [Assignment 1](assignments/assignment_1): Historical Ciphers: Design and Analysis(Vigenere Cipher)
+- [Assignment 2](assignments/assignment_2): Trivium Cipher (FSR based Stream Cipher)
+- [Assignment 3](assignments/assignment_3): DES Encryption and Avalanche Property
+- [Assignment 4](assignments/assignment_4): AES Implementation
+- [Assignment 5](assignments/assignment_5): ElGamal Digital Signature Scheme
 
 ---
 
 ## 💻 Projects
 
-These are the main projects I worked on throughout the course. Each project includes detailed instructions, code, and any additional notes.
+There is only one assignment I did in the course.
 
-- [Project 1](projects/project_1): [Short description of the project and what it aims to achieve]
-- [Project 2](projects/project_2): [Short description of the project]
-- [Project 3](projects/project_3): [Short description of the project]
+- [Project](projects/project): [Short description of the project and what it aims to achieve]
 
 ---
 

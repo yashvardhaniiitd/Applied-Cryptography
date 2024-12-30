@@ -21,7 +21,8 @@ This course covered topics related to **[Insert course topics]** and provided ha
 Here you'll find all the assignments I worked on during the course.
 
 - [Assignment 1](assignments/assignment_1): [Short description of the assignment and what it involved]
-- [Assignment 2](assignments/assignment_2): [Short description of the assignment]
+- [Assignment 2](assignments/assignment_2):  Trivium Cipher (FSR based Stream Cipher)
+   
 - [Assignment 3](assignments/assignment_3): [Short description of the assignment]
 
 ---

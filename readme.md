@@ -1,6 +1,6 @@
-# WiFi Simulation Project
+# Assignments of Applied Cryptography
 
-This project simulates the performance of WiFi 4, WiFi 5, and WiFi 6 technologies, calculating key metrics like throughput, average latency, and maximum latency under different user scenarios. The program is designed to allow you to simulate network performance with customizable user input, and it includes randomized throughput calculations for more realistic results.
+This repo contains all the assignments I did in my course of Applied Cryptography. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)

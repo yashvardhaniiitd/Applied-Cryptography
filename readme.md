@@ -32,7 +32,7 @@ Here you'll find all the assignments I worked on during the course.
 
 There is only one assignment I did in the course.
 
-- [Project](Prooject/linear-attack-on-spn-main): [Short description of the project and what it aims to achieve]
+- [Project](Project/linear-attack-on-spn-main): [Short description of the project and what it aims to achieve]
 
 ---
 
